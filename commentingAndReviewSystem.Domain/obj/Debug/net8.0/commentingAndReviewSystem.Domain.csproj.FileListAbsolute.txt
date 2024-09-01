@@ -1,0 +1,14 @@
+D:\Projects\commentingAndReviewSystemApi\commentingAndReviewSystem.Domain\bin\Debug\net8.0\commentingAndReviewSystem.Domain.deps.json
+D:\Projects\commentingAndReviewSystemApi\commentingAndReviewSystem.Domain\bin\Debug\net8.0\commentingAndReviewSystem.Domain.runtimeconfig.json
+D:\Projects\commentingAndReviewSystemApi\commentingAndReviewSystem.Domain\bin\Debug\net8.0\commentingAndReviewSystem.Domain.dll
+D:\Projects\commentingAndReviewSystemApi\commentingAndReviewSystem.Domain\bin\Debug\net8.0\commentingAndReviewSystem.Domain.pdb
+D:\Projects\commentingAndReviewSystemApi\commentingAndReviewSystem.Domain\obj\Debug\net8.0\commentingAndReviewSystem.Domain.csproj.AssemblyReference.cache
+D:\Projects\commentingAndReviewSystemApi\commentingAndReviewSystem.Domain\obj\Debug\net8.0\commentingAndReviewSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\commentingAndReviewSystemApi\commentingAndReviewSystem.Domain\obj\Debug\net8.0\commentingAndReviewSystem.Domain.AssemblyInfoInputs.cache
+D:\Projects\commentingAndReviewSystemApi\commentingAndReviewSystem.Domain\obj\Debug\net8.0\commentingAndReviewSystem.Domain.AssemblyInfo.cs
+D:\Projects\commentingAndReviewSystemApi\commentingAndReviewSystem.Domain\obj\Debug\net8.0\commentingAndReviewSystem.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\commentingAndReviewSystemApi\commentingAndReviewSystem.Domain\obj\Debug\net8.0\commentingAndReviewSystem.Domain.dll
+D:\Projects\commentingAndReviewSystemApi\commentingAndReviewSystem.Domain\obj\Debug\net8.0\refint\commentingAndReviewSystem.Domain.dll
+D:\Projects\commentingAndReviewSystemApi\commentingAndReviewSystem.Domain\obj\Debug\net8.0\commentingAndReviewSystem.Domain.pdb
+D:\Projects\commentingAndReviewSystemApi\commentingAndReviewSystem.Domain\obj\Debug\net8.0\commentingAndReviewSystem.Domain.genruntimeconfig.cache
+D:\Projects\commentingAndReviewSystemApi\commentingAndReviewSystem.Domain\obj\Debug\net8.0\ref\commentingAndReviewSystem.Domain.dll

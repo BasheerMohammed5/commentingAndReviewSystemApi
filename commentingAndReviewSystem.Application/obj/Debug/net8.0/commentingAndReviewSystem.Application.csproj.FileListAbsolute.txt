@@ -1,0 +1,17 @@
+D:\Projects\commentingAndReviewSystemApi\commentingAndReviewSystem.Application\bin\Debug\net8.0\commentingAndReviewSystem.Application.deps.json
+D:\Projects\commentingAndReviewSystemApi\commentingAndReviewSystem.Application\bin\Debug\net8.0\commentingAndReviewSystem.Application.runtimeconfig.json
+D:\Projects\commentingAndReviewSystemApi\commentingAndReviewSystem.Application\bin\Debug\net8.0\commentingAndReviewSystem.Application.dll
+D:\Projects\commentingAndReviewSystemApi\commentingAndReviewSystem.Application\bin\Debug\net8.0\commentingAndReviewSystem.Application.pdb
+D:\Projects\commentingAndReviewSystemApi\commentingAndReviewSystem.Application\bin\Debug\net8.0\commentingAndReviewSystem.Domain.dll
+D:\Projects\commentingAndReviewSystemApi\commentingAndReviewSystem.Application\bin\Debug\net8.0\commentingAndReviewSystem.Domain.pdb
+D:\Projects\commentingAndReviewSystemApi\commentingAndReviewSystem.Application\obj\Debug\net8.0\commentingAndReviewSystem.Application.csproj.AssemblyReference.cache
+D:\Projects\commentingAndReviewSystemApi\commentingAndReviewSystem.Application\obj\Debug\net8.0\commentingAndReviewSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\commentingAndReviewSystemApi\commentingAndReviewSystem.Application\obj\Debug\net8.0\commentingAndReviewSystem.Application.AssemblyInfoInputs.cache
+D:\Projects\commentingAndReviewSystemApi\commentingAndReviewSystem.Application\obj\Debug\net8.0\commentingAndReviewSystem.Application.AssemblyInfo.cs
+D:\Projects\commentingAndReviewSystemApi\commentingAndReviewSystem.Application\obj\Debug\net8.0\commentingAndReviewSystem.Application.csproj.CoreCompileInputs.cache
+D:\Projects\commentingAndReviewSystemApi\commentingAndReviewSystem.Application\obj\Debug\net8.0\commenti.6D7486DB.Up2Date
+D:\Projects\commentingAndReviewSystemApi\commentingAndReviewSystem.Application\obj\Debug\net8.0\commentingAndReviewSystem.Application.dll
+D:\Projects\commentingAndReviewSystemApi\commentingAndReviewSystem.Application\obj\Debug\net8.0\refint\commentingAndReviewSystem.Application.dll
+D:\Projects\commentingAndReviewSystemApi\commentingAndReviewSystem.Application\obj\Debug\net8.0\commentingAndReviewSystem.Application.pdb
+D:\Projects\commentingAndReviewSystemApi\commentingAndReviewSystem.Application\obj\Debug\net8.0\commentingAndReviewSystem.Application.genruntimeconfig.cache
+D:\Projects\commentingAndReviewSystemApi\commentingAndReviewSystem.Application\obj\Debug\net8.0\ref\commentingAndReviewSystem.Application.dll
